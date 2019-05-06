@@ -1,0 +1,19 @@
+{
+  "name": "@alu0101049687/auth",
+  "version": "1.0.0",
+  "description": "Práctica DSI",
+  "main": "auth.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ULL-ESIT-DSI-1819/alu0101049687-auth.git"
+  },
+  "author": "alu0101049687",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ULL-ESIT-DSI-1819/alu0101049687-auth/issues"
+  },
+  "homepage": "https://github.com/ULL-ESIT-DSI-1819/alu0101049687-auth#readme"
+}
